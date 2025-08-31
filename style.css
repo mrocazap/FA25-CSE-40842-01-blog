@@ -1,0 +1,137 @@
+/* Base */
+:root{
+  --bg:#faf8ff;
+  --text:#1f1a2d;
+  --muted:#6c6480;
+  --card:#ffffff;
+  --border:#eee8ff;
+  --accent:#6e58e0;
+  --accent-2:#a389f4;
+  --shadow:0 10px 30px rgba(110,88,224,.12);
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  color:var(--text);
+  background: radial-gradient(1200px 600px at 10% -10%, #f1ecff 0%, transparent 70%), var(--bg);
+  line-height:1.6;
+  overflow-x:hidden;
+}
+a{color:var(--accent);text-decoration:none}
+a:hover{color:var(--accent-2)}
+
+.container{max-width:980px;margin:0 auto;padding:24px}
+
+/* Header (glassy, not black) */
+.site-header{
+  position:sticky;top:0;z-index:50;
+  display:flex;align-items:center;justify-content:space-between;
+  padding:14px 24px;
+  backdrop-filter: blur(8px);
+  background: color-mix(in oklab, #ffffff 86%, transparent);
+  border-bottom:1px solid var(--border);
+}
+.brand{display:flex;align-items:center;gap:10px;min-width:0}
+.logo{font-size:20px;line-height:1}
+.site-title{font-family: 'Playfair Display', Georgia, serif; font-weight:600; color:var(--text); white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
+
+.nav{display:flex;flex-wrap:wrap;gap:18px;justify-content:flex-end;align-items:center}
+.nav a{color:var(--text);opacity:.85}
+.nav a:hover{opacity:1;text-decoration:underline}
+@media (max-width:720px){
+  .nav{gap:12px}
+  .site-title{max-width:52vw}
+}
+
+/* Hero */
+.title{
+  position:relative;
+  height:64vh; min-height:420px;
+  display:grid; place-items:center;
+  text-align:center;
+  isolation:isolate;
+  margin-bottom:8px;
+  overflow:hidden;
+}
+.title::before {
+  content:"";
+  position:absolute; inset:0;
+  background:url('img/hackerspurple.png') center/cover no-repeat;
+  filter:saturate(0.9) contrast(1.05) brightness(.75);
+  transform:scale(1.02);
+  z-index:-2;
+}
+.title::after{
+  content:"";
+  position:absolute; inset:0;
+  background: linear-gradient(180deg, rgba(255,255,255,0.15), rgba(250,248,255,0.6) 60%, var(--bg) 100%);
+  z-index:-1;
+}
+.title-inner{padding:0 20px; max-width:1000px}
+.title h2{
+  font-family:'Playfair Display', Georgia, serif;
+  font-size: clamp(38px, 6vw, 88px);
+  line-height:1.05;
+  margin:0 0 12px;
+  color:#fff;
+  text-shadow: 0 16px 60px rgba(0,0,0,.35), 0 2px 12px rgba(0,0,0,.25);
+}
+.title p{
+  margin:0 auto 22px;
+  max-width:720px;
+  font-size: clamp(16px, 2.4vw, 20px);
+  color: #f2f0ff;
+  text-shadow: 0 1px 2px rgba(0,0,0,.3);
+}
+.btn{
+  display:inline-block;
+  background:linear-gradient(180deg, var(--accent), var(--accent-2));
+  color:#fff;
+  padding:12px 20px;
+  border-radius:12px;
+  box-shadow: var(--shadow);
+  font-weight:600;
+  transition:transform .12s ease;
+}
+.btn:hover{transform:translateY(-1px)}
+
+/* Cards grid */
+.grid{
+  display:grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap:18px;
+}
+.card{
+  background:var(--card);
+  border:1px solid var(--border);
+  border-radius:16px;
+  padding:18px;
+  box-shadow:var(--shadow);
+  transition:transform .12s ease, box-shadow .12s ease;
+}
+.card:hover{transform:translateY(-2px); box-shadow:0 14px 40px rgba(110,88,224,.18)}
+.card h2{margin:0 0 6px; font-size:20px; font-family:'Playfair Display', Georgia, serif}
+.card .meta{font-size:12px; color:var(--muted); margin-bottom:6px}
+.card p{margin:0; color:#3a3356}
+
+/* Post content */
+.post{background:var(--card);border:1px solid var(--border);border-radius:18px;padding:22px;box-shadow:var(--shadow)}
+.post h1{font-family:'Playfair Display', Georgia, serif; font-size: clamp(28px, 4.5vw, 46px); line-height:1.1; margin:0 0 8px}
+.post .meta{color:var(--muted)}
+.post .content{margin-top:16px; overflow-wrap:anywhere; word-break: break-word}
+.post .content img{max-width:100%;border-radius:12px}
+.back{display:inline-block;margin-bottom:8px}
+
+/* Archive & sections */
+.archive-title{font-family:'Playfair Display', Georgia, serif; font-size:32px; margin:4px 0 16px}
+.view.hidden{display:none}
+.home-intro h3{margin:12px 0 12px; font-family:'Playfair Display', Georgia, serif}
+
+/* Contact */
+.contact-list{padding-left:18px}
+.contact-list li{margin:6px 0}
+.muted{color:var(--muted)}
+
+/* Footer */
+.site-footer{border-top:1px solid var(--border); padding:24px; text-align:center; color:var(--muted)}
