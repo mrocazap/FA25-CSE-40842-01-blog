@@ -2,22 +2,36 @@
 <rss version="2.0">
   <channel>
     <title>Thoughts of a Hacker</title>
-    <link>https://mrocazap.github.io/FA25-CSE-40842-01-blog/</link>
+    <link>https://https://mrocazap.github.io/FA25-CSE-40842-01-blog/</link>
     <description>Reflections and reading notes for Hackers in the Bazaar.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Aug 2025 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2025 00:00:00 GMT</lastBuildDate>
     <ttl>60</ttl>
 
     <item>
+      <title>Reading 2: Hardware Hackers</title>
+      <link>https://https://mrocazap.github.io/FA25-CSE-40842-01-blog//#/post/reading02</link>
+      <guid isPermaLink="false">reading02</guid>
+      <pubDate>Sun, 07 Sep 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+How important is spreading the Hacker Ethic to a wider audience? Is compromising ideals, worth having a larger impact on the world?
+      ]]></description>
+      <category>reading-notes</category>
+      <category>hardware-hackers</category>
+      <category>hackers-ethics</category>
+    </item>
+
+    <item>
       <title>Reading 1: True Hackers</title>
-      <link>https://mrocazap.github.io/FA25-CSE-40842-01-blog/#/post/reading01</link>
+      <link>https://https://mrocazap.github.io/FA25-CSE-40842-01-blog//#/post/reading01</link>
       <guid isPermaLink="false">reading01</guid>
       <pubDate>Sat, 30 Aug 2025 00:00:00 GMT</pubDate>
       <description><![CDATA[
-        What does it mean to be a 'true hacker'? Do you aspire to be one? Why or why not?
+What does it mean to be a 'true hacker'? Do you aspire to be one? Why or why not?
       ]]></description>
       <category>reading-notes</category>
-      <category>culture</category>
+      <category>hackers</category>
+      <category>beliefs</category>
     </item>
   </channel>
 </rss>
