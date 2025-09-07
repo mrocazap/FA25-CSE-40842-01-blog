@@ -3,8 +3,16 @@
     "title": "Reading 1: True Hackers",
     "slug": "reading01",
     "date": "2025-08-30",
-    "tags": ["reading-notes", "culture"],
+    "tags": ["reading-notes", "hackers", "beliefs"],
     "summary": "What does it mean to be a 'true hacker'? Do you aspire to be one? Why or why not?"
+  },
+
+  {
+    "title": "Reading 2: Hardware Hackers",
+    "slug": "reading02",
+    "date": "2025-09-07",
+    "tags": ["reading-notes", "hardware-hackers", "hackers-ethics"],
+    "summary": "How important is spreading the Hacker Ethic to a wider audience? Is compromising ideals, worth having a larger impact on the world?"
   } 
   
 ]
