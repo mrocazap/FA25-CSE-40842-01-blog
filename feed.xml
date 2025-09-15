@@ -5,8 +5,21 @@
     <link>https://https://mrocazap.github.io/FA25-CSE-40842-01-blog/</link>
     <description>Reflections and reading notes for Hackers in the Bazaar.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Sep 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 00:00:00 GMT</lastBuildDate>
     <ttl>60</ttl>
+
+    <item>
+      <title>Reading 3: Game Hackers</title>
+      <link>https://https://mrocazap.github.io/FA25-CSE-40842-01-blog//#/post/reading03</link>
+      <guid isPermaLink="false">reading03</guid>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+Can the Hacker Ethic truly and fully survive in a world of commercial and proprietary software? Is it better to be a 'professional programmer (the goal-oriented responsible engineer)' or is it better to be a programmer with 'love for [computing] in [your] heart' and 'hacker perfectionism in [your] soul'?
+      ]]></description>
+      <category>reading-notes</category>
+      <category>game-hackers</category>
+      <category>goal-oriented</category>
+    </item>
 
     <item>
       <title>Reading 2: Hardware Hackers</title>

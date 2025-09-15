@@ -13,6 +13,14 @@
     "date": "2025-09-07",
     "tags": ["reading-notes", "hardware-hackers", "hackers-ethics"],
     "summary": "How important is spreading the Hacker Ethic to a wider audience? Is compromising ideals, worth having a larger impact on the world?"
-  } 
+  }, 
+
+  {
+    "title": "Reading 3: Game Hackers",
+    "slug": "reading03",
+    "date": "2025-09-14",
+    "tags": ["reading-notes", "game-hackers", "goal-oriented"],
+    "summary": "Can the Hacker Ethic truly and fully survive in a world of commercial and proprietary software? Is it better to be a 'professional programmer (the goal-oriented responsible engineer)' or is it better to be a programmer with 'love for [computing] in [your] heart' and 'hacker perfectionism in [your] soul'?"
+  }
   
 ]
