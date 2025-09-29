@@ -21,6 +21,14 @@
     "date": "2025-09-14",
     "tags": ["reading-notes", "game-hackers", "goal-oriented"],
     "summary": "Can the Hacker Ethic truly and fully survive in a world of commercial and proprietary software? Is it better to be a 'professional programmer (the goal-oriented responsible engineer)' or is it better to be a programmer with 'love for [computing] in [your] heart' and 'hacker perfectionism in [your] soul'?"
+  },
+
+  {
+    "title": "Reading 4: Nerds and Hackers",
+    "slug": "reading03",
+    "date": "2025-09-14",
+    "tags": ["nerds", "popularity", "hackers", "painters", "creativity"],
+    "summary": "Is Paul Graham's version of a hacker compatible with Steven Levy's description? Do his arguments for and description of the modern hacker change your mind about what it means to be a hacker or the desirability of being one?"
   }
   
 ]
