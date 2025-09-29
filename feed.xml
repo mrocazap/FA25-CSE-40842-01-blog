@@ -5,8 +5,23 @@
     <link>https://https://mrocazap.github.io/FA25-CSE-40842-01-blog/</link>
     <description>Reflections and reading notes for Hackers in the Bazaar.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Sep 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 00:00:00 GMT</lastBuildDate>
     <ttl>60</ttl>
+
+    <item>
+      <title>Reading 4: Nerds and Hackers</title>
+      <link>https://https://mrocazap.github.io/FA25-CSE-40842-01-blog//#/post/reading04</link>
+      <guid isPermaLink="false">reading04</guid>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+Is Paul Graham's version of a hacker compatible with Steven Levy's description? Do his arguments for and description of the modern hacker change your mind about what it means to be a hacker or the desirability of being one?
+      ]]></description>
+      <category>nerds</category>
+      <category>popularity</category>
+      <category>hackers</category>
+      <category>painters</category>
+      <category>creativity</category>
+    </item>
 
     <item>
       <title>Reading 3: Game Hackers</title>
@@ -19,21 +34,6 @@ Can the Hacker Ethic truly and fully survive in a world of commercial and propri
       <category>reading-notes</category>
       <category>game-hackers</category>
       <category>goal-oriented</category>
-    </item>
-
-    <item>
-      <title>Reading 4: Nerds and Hackers</title>
-      <link>https://https://mrocazap.github.io/FA25-CSE-40842-01-blog//#/post/reading03</link>
-      <guid isPermaLink="false">reading03</guid>
-      <pubDate>Sun, 28 Sep 2025 00:00:00 GMT</pubDate>
-      <description><![CDATA[
-Is Paul Graham's version of a hacker compatible with Steven Levy's description? Do his arguments for and description of the modern hacker change your mind about what it means to be a hacker or the desirability of being one?
-      ]]></description>
-      <category>nerds</category>
-      <category>popularity</category>
-      <category>hackers</category>
-      <category>painters</category>
-      <category>creativity</category>
     </item>
 
     <item>
