@@ -5,8 +5,23 @@
     <link>https://https://mrocazap.github.io/FA25-CSE-40842-01-blog/</link>
     <description>Reflections and reading notes for Hackers in the Bazaar.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Sep 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 00:00:00 GMT</lastBuildDate>
     <ttl>60</ttl>
+
+    <item>
+      <title>Reading 5: Programming languages</title>
+      <link>https://https://mrocazap.github.io/FA25-CSE-40842-01-blog//#/post/reading05</link>
+      <guid isPermaLink="false">reading05</guid>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+How important is the choice of programming language in software development and computer science? What is lacking in our current set of tools? What ideas or features will continue to persist far into the future?
+      ]]></description>
+      <category>programming language</category>
+      <category>coding</category>
+      <category>hackers</category>
+      <category>painters</category>
+      <category>art</category>
+    </item>
 
     <item>
       <title>Reading 4: Nerds and Hackers</title>

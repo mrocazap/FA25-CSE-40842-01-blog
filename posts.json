@@ -29,6 +29,14 @@
     "date": "2025-09-29",
     "tags": ["nerds", "popularity", "hackers", "painters", "creativity"],
     "summary": "Is Paul Graham's version of a hacker compatible with Steven Levy's description? Do his arguments for and description of the modern hacker change your mind about what it means to be a hacker or the desirability of being one?"
+  },
+
+  {
+    "title": "Reading 5: Programming languages",
+    "slug": "reading05",
+    "date": "2025-10-05",
+    "tags": ["programming language", "coding", "hackers", "painters", "art"],
+    "summary": "How important is the choice of programming language in software development and computer science? What is lacking in our current set of tools? What ideas or features will continue to persist far into the future?"
   }
   
 ]
