@@ -45,6 +45,14 @@
     "date": "2025-10-12",
     "tags": ["wealth", "start-ups", "risk", "love"],
     "summary": "How important is the choice of programming language in software development and computer science? What is lacking in our current set of tools? What ideas or features will continue to persist far into the future?"
+  },
+
+  {
+    "title": "Reading 7: The Cathedral and the Bazaar",
+    "slug": "reading07",
+    "date": "2025-11-02",
+    "tags": ["ESR", "software", "cathedral", "bazaar"],
+    "summary": "From your experience, which model of software development is superior: the cathedral or the bazaar? Which is the future of software development? Are the two models mutually exclusive?"
   }
   
 ]

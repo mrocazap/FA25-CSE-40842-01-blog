@@ -5,8 +5,22 @@
     <link>https://https://mrocazap.github.io/FA25-CSE-40842-01-blog/</link>
     <description>Reflections and reading notes for Hackers in the Bazaar.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Oct 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 00:00:00 GMT</lastBuildDate>
     <ttl>60</ttl>
+
+    <item>
+      <title>Reading 7: The Cathedral and the Bazaar</title>
+      <link>https://https://mrocazap.github.io/FA25-CSE-40842-01-blog//#/post/reading07</link>
+      <guid isPermaLink="false">reading07</guid>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+From your experience, which model of software development is superior: the cathedral or the bazaar? Which is the future of software development? Are the two models mutually exclusive?
+      ]]></description>
+      <category>ESR</category>
+      <category>software</category>
+      <category>cathedral</category>
+      <category>bazaar</category>
+    </item>
 
     <item>
       <title>Reading 6: Wealth Creation</title>
@@ -16,11 +30,10 @@
       <description><![CDATA[
 How important is the choice of programming language in software development and computer science? What is lacking in our current set of tools? What ideas or features will continue to persist far into the future?
       ]]></description>
-      <category>programming language</category>
-      <category>coding</category>
-      <category>hackers</category>
-      <category>painters</category>
-      <category>art</category>
+      <category>wealth</category>
+      <category>start-ups</category>
+      <category>risk</category>
+      <category>love</category>
     </item>
 
     <item>
