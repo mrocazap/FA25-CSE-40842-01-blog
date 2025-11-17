@@ -53,6 +53,14 @@
     "date": "2025-11-02",
     "tags": ["ESR", "software", "cathedral", "bazaar"],
     "summary": "From your experience, which model of software development is superior: the cathedral or the bazaar? Which is the future of software development? Are the two models mutually exclusive?"
+  },
+
+  {
+    "title": "Reading 9: Birth of a nerd OS",
+    "slug": "reading09",
+    "date": "2025-11-16",
+    "tags": ["OS", "nerd", "fun", "hacker"],
+    "summary": "Do you find the story of Linus Torvalds' upbringing and creation of Linux inspiring, interesting, or irrelevant? How does his story compare to other computing industry titans such as Bill Gates, Steve Jobs, or Mark Zuckerberg? What do you wish your story to be?"
   }
   
 ]

@@ -5,8 +5,22 @@
     <link>https://https://mrocazap.github.io/FA25-CSE-40842-01-blog/</link>
     <description>Reflections and reading notes for Hackers in the Bazaar.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Nov 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 00:00:00 GMT</lastBuildDate>
     <ttl>60</ttl>
+
+    <item>
+      <title>Reading 9: Birth of a nerd OS</title>
+      <link>https://https://mrocazap.github.io/FA25-CSE-40842-01-blog//#/post/reading09</link>
+      <guid isPermaLink="false">reading09</guid>
+      <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+Do you find the story of Linus Torvalds' upbringing and creation of Linux inspiring, interesting, or irrelevant? How does his story compare to other computing industry titans such as Bill Gates, Steve Jobs, or Mark Zuckerberg? What do you wish your story to be?
+      ]]></description>
+      <category>OS</category>
+      <category>nerd</category>
+      <category>fun</category>
+      <category>hacker</category>
+    </item>
 
     <item>
       <title>Reading 7: The Cathedral and the Bazaar</title>
