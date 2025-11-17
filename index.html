@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Thoughts of a Hacker</title>
+  <meta name="description" content="Reflections and reading notes for Hackers in the Bazaar." />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Playfair+Display:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+
+  <!-- Header-->
+  <header class="site-header">
+    <div class="brand">
+      <span class="logo" aria-hidden="true">✷</span>
+      <a href="#/" class="site-title">Thoughts of a Hacker</a>
+    </div>
+    <nav class="nav">
+      <a href="#/">Home</a>
+      <a href="#/archive">Archive</a>
+      <a href="#/about">About</a>
+      <a href="#/contact">Contact</a>
+    </nav>
+  </header>
+
+  <!-- Title -->
+  <section class="title">
+    <div class="title-inner">
+      <h2>Insights from Hackers in the Bazaar</h2>
+      <p>Reflections and insights based on class reading assignments.</p>
+      <a href="#/archive" class="btn">Read the posts</a>
+    </div>
+  </section>
+
+  <!-- Main content -->
+  <main id="app" class="container">
+    <section id="home-view" class="view">
+      <div class="home-intro">
+        <h3>Latest</h3>
+      </div>
+      <div id="posts" class="grid"></div>
+    </section>
+
+    <section id="post-view" class="view hidden">
+      <article class="post">
+        <a class="back" href="#/archive">← Back to posts</a>
+        <h1 id="post-title"></h1>
+        <p class="meta"><span id="post-date"></span> · <span id="post-tags"></span></p>
+        <div id="post-content" class="content"></div>
+      </article>
+    </section>
+
+    <section id="about-view" class="view hidden">
+      <article class="post">
+        <h1>About</h1>
+        <p>This is a tiny static blog (HTML/CSS/JS + Markdown) for a “Hackers in the Bazaar” class. No frameworks; just ship.</p>
+      </article>
+    </section>
+
+    <section id="contact-view" class="view hidden">
+      <article class="post">
+        <h1>Contact</h1>
+        <p class="muted">Say hi or send reading recs:</p>
+        <ul class="contact-list">
+          <li>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+          <li>GitHub: <a href="https://github.com/yourname" target="_blank" rel="noopener">github.com/yourname</a></li>
+        </ul>
+      </article>
+    </section>
+
+    <section id="archive-view" class="view hidden">
+      <h1 class="archive-title">Posts</h1>
+      <div id="archive-posts" class="grid"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Made with curiosity. Markdown via <a href="https://marked.js.org/" target="_blank" rel="noopener">marked</a>.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
