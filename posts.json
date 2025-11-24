@@ -61,6 +61,13 @@
     "date": "2025-11-16",
     "tags": ["OS", "nerd", "fun", "hacker"],
     "summary": "Do you find the story of Linus Torvalds' upbringing and creation of Linux inspiring, interesting, or irrelevant? How does his story compare to other computing industry titans such as Bill Gates, Steve Jobs, or Mark Zuckerberg? What do you wish your story to be?"
+  },
+
+  {
+    "title": "Reading 10: King of the ball",
+    "slug": "reading10",
+    "date": "2025-11-23",
+    "tags": ["Open Source", "success", "OS", "Linux"],
+    "summary": "What do you make of Linux's success? Is it proof of the power of hackers in the bazaar? Or was it simply a matter of fortunate circumstances? Will there ever be another open source success story as big as Linux?"
   }
-  
 ]

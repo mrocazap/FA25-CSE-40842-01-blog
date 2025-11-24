@@ -5,8 +5,22 @@
     <link>https://https://mrocazap.github.io/FA25-CSE-40842-01-blog/</link>
     <description>Reflections and reading notes for Hackers in the Bazaar.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Nov 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 00:00:00 GMT</lastBuildDate>
     <ttl>60</ttl>
+
+    <item>
+      <title>Reading 10: King of the ball</title>
+      <link>https://https://mrocazap.github.io/FA25-CSE-40842-01-blog//#/post/reading10</link>
+      <guid isPermaLink="false">reading10</guid>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+What do you make of Linux's success? Is it proof of the power of hackers in the bazaar? Or was it simply a matter of fortunate circumstances? Will there ever be another open source success story as big as Linux?
+      ]]></description>
+      <category>Open Source</category>
+      <category>success</category>
+      <category>OS</category>
+      <category>Linux</category>
+    </item>
 
     <item>
       <title>Reading 9: Birth of a nerd OS</title>
